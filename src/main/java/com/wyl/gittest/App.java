@@ -15,5 +15,7 @@ public class App
     	
     	System.out.println( "测试Git分支 !" );
     	
+    	System.out.println( "Git分支再提交一次 !" );
+    	
     }
 }
