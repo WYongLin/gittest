@@ -13,7 +13,7 @@ public class App
     	String testStr = ResourceUtil.getCustomResource("git.test");
     	System.out.println(testStr);
     	
-    	System.out.println( "Hello World!" );
+    	System.out.println( "测试Git分支 !" );
     	
     }
 }
